@@ -20,17 +20,19 @@
 
 ## Community Sites
 
+- [Blues on Attack](https://bluesonattack.wordpress.com/)
 - [Computron's Lab](https://sites.google.com/view/computronslab/home)
+- [Reddit subreddit](https://www.reddit.com/r/TransformersTCG/)
 - [Transformer.cards](https://transformers.cards/)
 - [Vector Sigma](https://vectorsigma.info/)
-- [Reddit subreddit](https://www.reddit.com/r/TransformersTCG/)
+- [Wreck 'n Rule](https://wrecknrule.com/)
 
 ## Video Channels
 
 - [Blues on Attack](https://www.youtube.com/channel/UCESludtUllKajtwpR_zSs-Q)
 - [TCG Roll Out!](https://www.youtube.com/channel/UCTXdM8vpTAOVGne3bN_4Vaw)
 - [Wossy Plays](https://www.youtube.com/channel/UCm5dQhtBpw1S3ajLVPKWs0A/featured)
-- [Wreck n' Rule](https://www.youtube.com/channel/UCjCQOQwRg6aistV0_OvPZuQ)
+- [Wreck 'n Rule](https://www.youtube.com/channel/UCjCQOQwRg6aistV0_OvPZuQ)
 - [Vector Sigma](https://www.youtube.com/channel/UCFhX1QZdMORBjaSAfB49W4g)
 
 ## Discord Channels
