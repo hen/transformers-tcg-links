@@ -12,7 +12,7 @@
 - [Hasbro Product Page](https://transformers.hasbro.com/en-us/tradingcardgame) - Hasbro homepage
     - [How to Play](https://transformers.hasbro.com/en-us/tradingcardgame/howtoplay) - How to play videos
 - [WotC Product Page](https://wpn.wizards.com/en/products/transformers-tcg) - WoTC homepage
-    - [News] (https://transformerstcg-support.wizards.com/hc/en-us/categories/360002119111-News)
+    - [News](https://transformerstcg-support.wizards.com/hc/en-us/categories/360002119111-News)
     - [Latest Rules Roundups](https://transformerstcg-support.wizards.com/hc/en-us/sections/360006518052-Rules-Roundups-FAQs)
     - [Original FAQ](https://wpn.wizards.com/en/document/transformers-tcg-faq)
 - [Twitter Channel](https://twitter.com/transformerstcg?lang=en)
