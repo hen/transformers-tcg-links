@@ -15,6 +15,7 @@
     - [News](https://transformerstcg-support.wizards.com/hc/en-us/categories/360002119111-News)
     - [Latest Rules Roundups](https://transformerstcg-support.wizards.com/hc/en-us/sections/360006518052-Rules-Roundups-FAQs)
     - [Original FAQ](https://wpn.wizards.com/en/document/transformers-tcg-faq)
+    - [Marketing Materials](https://wpn.wizards.com/en/resources/marketing-materials-0?mainnav#tab_2)
 - [Twitter Channel](https://twitter.com/transformerstcg?lang=en)
 - [Facebook Group](https://www.facebook.com/groups/transformerstcg/) - Though there are many community groups organized by region
 
