@@ -30,6 +30,9 @@
 - [Vector Sigma](https://vectorsigma.info/)
 - [Wreck 'n Rule](https://wrecknrule.com/)
 
+- [Optimus/Bumblebee Starter Deck List](https://boardgamegeek.com/thread/2033664/starter-set-contents)
+- [Bumblebee/Megatron Starter Deck List](https://news.tfw2005.com/2019/03/14/transformers-trading-card-game-new-starter-set-bumblebee-vs-megatron-images-384897)
+
 ## Video Channels
 
 - [Blues on Attack](https://www.youtube.com/channel/UCESludtUllKajtwpR_zSs-Q)
