@@ -35,6 +35,8 @@
 - [Optimus/Bumblebee Starter Deck List](https://boardgamegeek.com/thread/2033664/starter-set-contents)
 - [Bumblebee/Megatron Starter Deck List](https://docs.google.com/spreadsheets/d/1QYl9y6Tog6pj0Q5j8WsBZiwRpYuuojmI4ku1RSgY260/edit#gid=601422489)
 
+- Interesting Magic Article: https://magic.wizards.com/en/articles/archive/making-magic/when-cards-go-bad-revisited-2012-10-22
+
 ## Video Channels
 
 - [Blues on Attack](https://www.youtube.com/channel/UCESludtUllKajtwpR_zSs-Q)
