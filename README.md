@@ -31,6 +31,7 @@
 - [Wreck 'n Rule](https://wrecknrule.com/)
 
 - [Wave 4 List](https://docs.google.com/spreadsheets/d/1022PMRMS_hAOiX74dJE9rrHhT0pmkxkrGQFXqIy-rDg/edit#gid=0)
+- [Siege II Spoilers](https://vectorsigma.info/siege-ii-spoilers)
 
 - [Optimus/Bumblebee Starter Deck List](https://boardgamegeek.com/thread/2033664/starter-set-contents)
 - [Bumblebee/Megatron Starter Deck List](https://docs.google.com/spreadsheets/d/1QYl9y6Tog6pj0Q5j8WsBZiwRpYuuojmI4ku1RSgY260/edit#gid=601422489)
